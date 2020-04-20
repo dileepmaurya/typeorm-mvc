@@ -1,1 +1,1 @@
-# MVS type ORM
+# MVC for type ORM
